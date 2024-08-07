@@ -300,7 +300,7 @@ mindmap
 <!-- GitHub 数据统计 --><div>
 
 <img  height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=123hjh321&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=123hjh321&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></div><br><br>
+<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=123hjh321&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br>
 
 <!-- Wakatime Graph-->
 
@@ -317,11 +317,10 @@ mindmap
 <img width="200%" src="https://cdn.jsdelivr.net/gh/SerMs/SerMs/assets/images/hr.gif" />
 
 <!-- run 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/SerMs/SerMs/assets/images/man_run.png" alt="Man Running" width="250" height="250" />
+<img src="https://cdn.jsdelivr.net/gh/123hjh321/123hjh321/assets/images/man_run.png" alt="Man Running" width="250" height="250" />
 
 <!-- Joke 笑话 -->
 
-<div>
 <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" />
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
@@ -336,7 +335,7 @@ mindmap
 
 <img src="https://cdn.jsdelivr.net/gh/123hjh321/123hjh321/github-metrics/base.svg" />
 
-<img width="150" src="https://cdn.jsdelivr.net/gh/SerMs/SerMs/assets/images/cxyduck.gif" />
+<img width="150" src="https://cdn.jsdelivr.net/gh/123hjh321/123hjh321/assets/images/cxyduck.gif" />
 
 
 
