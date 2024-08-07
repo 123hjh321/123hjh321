@@ -29,7 +29,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/123hjh321/123hjh321/profile-snake-contrib/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/123hjh321/123hjh321/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture>
-
 </div>
 
 #  🙋 Hello
@@ -289,7 +288,6 @@ mindmap
 <img width="200%" src="https://cdn.jsdelivr.net/gh/SerMs/SerMs/assets/images/hr.gif" />
 
 <div align="center" >
-
 <!-- Quotes 名人名言 -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
 
@@ -312,7 +310,7 @@ mindmap
   </tr>
 </table>
 
-</div>
+
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/SerMs/SerMs/assets/images/hr.gif" />
@@ -323,8 +321,7 @@ mindmap
 <!-- Joke 笑话 -->
 
 <div>
-
-<img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" /></div>
+<img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" />
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 
@@ -333,11 +330,12 @@ mindmap
 <img width=50% align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=123hjh321&theme=dark&hide_border=true" alt="Image 2" style="margin-right: 10px;">   
 <img width=20% height= 20%  src="https://cdn.jsdelivr.net/gh/SerMs/SerMs/assets/images/right.png" alt="Image 3"> 
 </div>
-
 <!-- metrics 基础资料 -->
 <img width="150" src="https://cdn.jsdelivr.net/gh/123hjh321/123hjh321/assets/images/cxyduck.gif" />&emsp;
 
-<img src="https://cdn.jsdelivr.net/gh/123hjh321/123hjh321/github-metrics/base.svg" /><img width="150" src="https://cdn.jsdelivr.net/gh/SerMs/SerMs/assets/images/cxyduck.gif" />
+<img src="https://cdn.jsdelivr.net/gh/123hjh321/123hjh321/github-metrics/base.svg" />
+
+<img width="150" src="https://cdn.jsdelivr.net/gh/SerMs/SerMs/assets/images/cxyduck.gif" />
 
 
 
@@ -348,19 +346,16 @@ mindmap
     <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=SerMs&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
   </tr>
 </table>
-
-</div>
-
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/123hjh321/123hjh321/assets/images/hr.gif" />
 
 <!-- GitHub metrics 信息指标 -->
 
-<img width="36%" src="https://cdn.jsdelivr.net/gh/123hjh321/123hjh321/assets/images/githubgif.gif" />
+<img align="center" width="36%" src="https://cdn.jsdelivr.net/gh/123hjh321/123hjh321/assets/images/githubgif.gif" />
 
 <table>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/123hjh321/123hjh321/github-metrics/people.followers.svg" alt="people.followers" /></td>
+    <td align="center" ><img src="https://cdn.jsdelivr.net/gh/123hjh321/123hjh321/github-metrics/people.followers.svg" alt="people.followers" /></td>
   </tr>
 </table>
 
