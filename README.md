@@ -2,6 +2,10 @@
   <div>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小何同学祝您今天愉快!&center=true&size=27" />
   </div>
+<!-- knock code pictures 敲代码的图片 -->
 
- 
-  
+ <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/123hjh321/123hjh321/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/123hjh321/123hjh321/assets/images/developer.svg" height="225px" />
+    <img src="https://cdn.jsdelivr.net/gh/123hjh321/123hjh321/assets/images/coding.gif" />
+  </picture>
